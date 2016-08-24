@@ -1,0 +1,69 @@
+*{
+	font-family: Tahoma;
+}
+
+nav.navbar{
+	background-color: transparent;
+	border-color: transparent;
+}
+#bg{
+	background-image: url(../img/header.jpg);
+	background-size: 100%;
+	background-repeat: no-repeat;
+
+}
+.jumbotron{
+	background-color: transparent;
+}
+.blnc{
+	color: white;	
+}
+.bo{
+	font-style: bold;
+}
+.vde{
+	background-color: #00b38f;
+}
+.btn{
+	border-radius: 7%;
+}
+
+hr{
+	width: 30%;
+}
+.abj{
+	margin-bottom: 07%;
+}
+.matop{
+	margin-top: 07%;
+}
+.bold{
+	font-size: 4em;
+	color: #00ffaa;
+}
+.nrg{
+	position: absolute;
+	top: 0;
+	background-color: rgba(77, 255, 255, 0.5);
+	width:130%;
+	height: 100%;
+	opacity:0;
+	
+
+}
+.nrg:hover{
+	opacity: 1;
+}
+.image{
+	position: relative;
+}
+.tipo{
+	color: white;
+	font-style: bold;
+	font-weight: 700%;
+
+}
+.blk{
+	background-color: black;
+	
+}
